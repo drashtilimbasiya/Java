@@ -11,10 +11,3 @@ public class Main {
     System.out.println(cars);
   } 
 }
-​
-[Volvo, BMW, Ford, Mazda]
-
-
-REMOVE ADS
-
-×
